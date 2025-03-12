@@ -3,11 +3,11 @@
 :root{
     --background:#ffffff;
     --foreground:#ebf4ff;
-    --thirdground:#ffc600;
+    --thirdground:#c98db2;
     --primary:#131923;
-    --secondary:#0055b8;
-    --secondary-foreground:#ffffff;
-    --hero-background:#f3f3f3;
+    --secondary:#a5517f;
+    --secondary-foreground:#ebd9e3;
+    --hero-background:#f0cfe1;
 }
 *{
     margin: 0;

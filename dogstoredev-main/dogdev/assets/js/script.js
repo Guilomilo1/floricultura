@@ -21,15 +21,15 @@ menuOpener.addEventListener('click', ()=>{
 //TESTEMONIALS
 //vetor de objetos contendo as frases e os icones
 let testemonials = [
-    {quote:'"Mais do que nunca, os animais '+
-     'são tratados como membros da familia"', origin:'cbs.svg' }, 
-    {quote:'"DogDev é um serviço de entrega direto ao '+ 
+    {quote:'"Mais do que nunca, as plantas '+
+     'são tratadas como uma decoração viva"', origin:'cbs.svg' }, 
+    {quote:'"FloraMax é um serviço de entrega direto ao '+ 
         'consumidor, preparado na hora com ingredientes 100% '+
-        'reais. Ingredientes que humanos reconheceriam"',
+        'reais escolhidos a dedo para seu substrato rico em vitaminas"',
         origin:'forbes.svg' }, 
-    {quote:'"DogDev usa ingredientes simples e limpos em '+ 
+    {quote:'"FloraMax usa ingredientes simples e limpos em '+ 
         'seus produtos."', origin:'fox.svg' }, 
-    {quote:'"Vejo você DogDev como um verdadeiro herói"',
+    {quote:'"Vejo você FloraMax como uma verdadeira heroina"',
         origin:'sharktank.svg' }
 ];
 //captura os elementos do html usando queryselector
